@@ -140,69 +140,6 @@ while($row01 = mysqli_fetch_array($result)){
 
 
 
-// <div class="row">
-//    <div class="col-sm">
-//       <div class="card" style="width: 18rem;">
-//          <img src="https://content.ib2c.com.ar/224/products/329678_1100x1500.jpg" class="card-img-top" alt="..."> 
-//          <div class="card-body">
-//             <h5 class="card-title">SWEATER CUELLO REDONDO MOULINE</h5>
-//             <p class="card-text">Disponibilidad: Con stock</p>
-//             <p class="card-text">Talle: XXL</p>
-//             <p class="card-text">Unidad: $ 6.000,00</p>
-//             <p class="card-text">Cantidad: 2 </p>
-//             <p class="card-text">Total: $ 12.000,00</p>
-//             <a href="#" class="btn btn-success">+</a> <a href="#" class="btn btn-danger">-</a> <a href="#" class="btn btn-dark">Agregar al Carrito</a> 
-//          </div>
-//       </div>
-//    </div>
-//    <div class="col-sm">
-//       <div class="card" style="width: 18rem;">
-//          <img src="https://content.ib2c.com.ar/224/products/329678_1100x1500.jpg" class="card-img-top" alt="..."> 
-//          <div class="card-body">
-//             <h5 class="card-title">SWEATER CUELLO REDONDO MOULINE</h5>
-//             <p class="card-text">Talle: XXL</p>
-//             <p class="card-text">Unidad: $ 6.000,00</p>
-//             <p class="card-text">Cantidad: 2 </p>
-//             <p class="card-text">Total: $ 12.000,00</p>
-//             <a style="margin-bottom:10px;" href="#" class="btn btn-success">Agregar 1 Unidad</a> <a href="#" class="btn btn-danger">Eliminar 1 Unidad</a> 
-//          </div>
-//       </div>
-//    </div>
-//    <div class="col-sm">
-//       <div class="card" style="width: 18rem;">
-//          <img src="https://content.ib2c.com.ar/224/products/329678_1100x1500.jpg" class="card-img-top" alt="..."> 
-//          <div class="card-body">
-//             <h5 class="card-title">SWEATER CUELLO REDONDO MOULINE</h5>
-//             <p class="card-text">Talle: XXL</p>
-//             <p class="card-text">Unidad: $ 6.000,00</p>
-//             <p class="card-text">Cantidad: 2 </p>
-//             <p class="card-text">Total: $ 12.000,00</p>
-//             <a style="margin-bottom:10px;" href="#" class="btn btn-success">Agregar 1 Unidad</a> <a href="#" class="btn btn-danger">Eliminar 1 Unidad</a> 
-//          </div>
-//       </div>
-//    </div>
-//    <div class="col-sm">
-//       <div class="card" style="width: 18rem;">
-//          <img src="https://content.ib2c.com.ar/224/products/329678_1100x1500.jpg" class="card-img-top" alt="..."> 
-//          <div class="card-body">
-//             <h5 class="card-title">SWEATER CUELLO REDONDO MOULINE</h5>
-//             <p class="card-text">Talle: XXL</p>
-//             <p class="card-text">Unidad: $ 6.000,00</p>
-//             <p class="card-text">Cantidad: 2 </p>
-//             <p class="card-text">Total: $ 12.000,00</p>
-//             <a style="margin-bottom:10px;" href="#" class="btn btn-success">Agregar 1 Unidad</a> <a href="#" class="btn btn-danger">Eliminar 1 Unidad</a> 
-//          </div>
-//       </div>
-//    </div>
-// </div>
-// </div>
-
-
-
-
-// ';
-
-
 
 echo '</div></div>';
 
